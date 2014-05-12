@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "handgestures")
+set(handgestures_MAINTAINER "fri <fri@todo.todo>")
+set(handgestures_DEPRECATED "")
+set(handgestures_VERSION "0.0.0")
+set(handgestures_BUILD_DEPENDS "roscpp" "std_msgs")
+set(handgestures_RUN_DEPENDS "roscpp" "std_msgs")
+set(handgestures_BUILDTOOL_DEPENDS "catkin")
